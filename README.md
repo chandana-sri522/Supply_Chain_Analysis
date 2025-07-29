@@ -1,6 +1,7 @@
 # Supply_Chain_Analysis
 Supply Chain Analysis in the FMCG domain-AtliQ Mart
 I took this Dataset from codebaiscs resume challenge, I have performed data analysis and designed a Report in Power BI
+Live Report : https://app.powerbi.com/view?r=eyJrIjoiOGUwZWZlZWUtMWQ5MS00NDY0LThlOTctYTQwNGI3ZjBkZWQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 Link
 
 Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
